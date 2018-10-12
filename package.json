@@ -4,7 +4,8 @@
   "description": "Javascript side jsBridge lib",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run test",
+    "dev": "npm run dev"
   },
   "repository": {
     "type": "git",

@@ -1,3 +1,4 @@
+var console = console;
 export default () => {
-  console.log('111')
-}
+  console.log('111');
+};
