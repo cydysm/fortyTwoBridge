@@ -1,0 +1,25 @@
+{
+  "name": "fortytwobridge",
+  "version": "1.0.0",
+  "description": "Javascript side jsBridge lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cydysm/fortyTwoBridge.git"
+  },
+  "keywords": [
+    "jsbridge"
+  ],
+  "author": "t.ccydlj#gmail.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cydysm/fortyTwoBridge/issues"
+  },
+  "homepage": "https://github.com/cydysm/fortyTwoBridge#readme",
+  "devDependencies": {
+    "eslint": "^5.6.1"
+  }
+}
